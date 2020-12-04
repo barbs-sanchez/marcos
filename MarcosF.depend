@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1580186040 source:f:\marcosf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+
+1580186040 source:f:\marcosf\definicion.c
+	<string.h>
+	<conio.h>
+
+1562189866 source:e:\marcosf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+
+1562272364 source:e:\marcosf\definicion.c
+	<string.h>
+	<conio.h>
+
+1580794536 source:g:\marcosf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+
+1580965920 source:g:\marcosf\definicion.c
+	<string.h>
+	<conio.h>
+
